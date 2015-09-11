@@ -1,0 +1,2 @@
+Pseudocode is code that is very simple programing.
+We will use it to learn the basics of programing.
