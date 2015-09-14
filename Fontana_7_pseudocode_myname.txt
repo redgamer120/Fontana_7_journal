@@ -1,0 +1,17 @@
+begin:
+	Draw Forward
+	Draw Forward
+	Turn Right 90 degrees
+	Draw Forward
+	Turn Right 90 degrees
+	Draw Forward
+	Turn Right 90 degrees
+	Draw Forward
+	Turn Left 45 degrees
+	Draw Forward
+//R
+	Turn Right 90 degrees
+	Draw Forward
+	Turn Left 90
+	Draw Forward
+	Turn Left 90

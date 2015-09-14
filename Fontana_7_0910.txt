@@ -1,0 +1,1 @@
+On the 9th we created a read me file inside of a directory for our github account in the command consule.
