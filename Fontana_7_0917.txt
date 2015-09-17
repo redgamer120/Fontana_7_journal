@@ -1,0 +1,6 @@
+The different types of Java are:
+1. Intereger used for counting.
+2. Floats such as 32.
+3. Characters such as any letter.
+4. Boolean for on, off, true, or false.
+5. String for a collection of letters.
