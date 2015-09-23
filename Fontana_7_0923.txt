@@ -1,0 +1,19 @@
+Copyright is the rights when you have a certain rights to copy things.
+Copyleft is an arrangement where you have to follow the maker's rules of fair use.
+Fair Use is that you only copy things in the name of education.
+Free Speech is the freedom of speech.
+Free Software is software you can do anything to.
+Freeware softwar that you can get for free.
+Public Domain is the belonging of the public as a whole.
+File-sharing is when you can transmit files over network.
+Piracy is when you copy and sell things illegaly.
+Plagiarism is when you illegaly copy and paste someting.
+Infringement is when you break the law.
+Proprietary is another word for owner.
+Open Source is when you can copy and paste it at your own will.
+GNU GPL is another word for GNU general public lecinse
+License is and agrement of some sort.
+MIT License is the license of MIT
+Apache License is free software made by Apache software foundation.
+EULA is a contract between buyers and sellers.
+Creative Commons is an orgaization devoted to legall useing rights.
