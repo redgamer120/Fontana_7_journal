@@ -1,0 +1,2 @@
+Method is a type of code that is like a subprogram that gets things and returns them.
+They are good for side math while doing bigger math.
