@@ -1,0 +1,1 @@
+Code comments are comments you can put in code but will not interfear with the code.
