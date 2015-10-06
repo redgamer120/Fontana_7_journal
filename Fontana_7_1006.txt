@@ -1,0 +1,4 @@
+Classes are things you can accocate things with.
+Instances are programes that run in instances.
+Methods are shortcuts in a program or custom names for a command.
+Class methods are custom methods.
