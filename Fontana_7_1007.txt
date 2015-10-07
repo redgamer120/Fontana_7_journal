@@ -1,0 +1,3 @@
+Java classes are used to define and object and create it.
+A JavaFX can be used to make symbols or shapes.
+A method and a class can be used to make a shorter class.
