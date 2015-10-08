@@ -1,0 +1,5 @@
+My thoughts for my art project are a sword with the lengend of Zelda symbol on it.
+I don't know what methods I will use for it.
+For me to incorperate a loop it would be to make the lengend of Zelda symbol.
+To use an if, if else, or and else loop would be really hard for me.
+The math I would have to incorperate would be be for the angles and such.
