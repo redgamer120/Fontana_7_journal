@@ -1,0 +1,38 @@
+1. I am not done with my methods because I only have 3 working methods.
+2. I thought of making a triforce to begin with but now I'm going to add a stick figure as well.
+3. No because I had never heard of it.
+4. Yes because I was very confused on what we were doing.
+5. package fontana_5_test_file;
+
+import javafx.application.Application;
+import javafx.scene.Group;
+import javafx.scene.Scene;
+import javafx.scene.canvas.Canvas;
+import javafx.scene.canvas.GraphicsContext;
+import javafx.scene.paint.Color;
+import javafx.scene.shape.ArcType;
+import javafx.stage.Stage;
+
+public class Fontana_5_test_file extends Application {
+    
+    public static void main(String[] args) {
+        launch(args);
+    }
+    @Override
+    public void start(Stage primaryStage) {
+        primaryStage.setTitle("Red Line");
+        Group root = new Group();
+        Canvas canvas = new Canvas(300, 250);
+        GraphicsContext gc = canvas.getGraphicsContext2D();
+        drawRedSquare(gc);
+        root.getChildren().add(canvas);
+        primaryStage.setScene(new Scene(root));
+        primaryStage.show();
+    }
+    private void drawRedSquare(GraphicsContext gc) {
+        gc.setFill(Color.RED);
+        gc.fillPolygon(new double[]{0, 1000000, 1000000, 0},
+                       new double[]{80, 80, 60, 60}, 4);
+    }
+}
+
