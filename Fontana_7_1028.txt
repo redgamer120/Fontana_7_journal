@@ -1,0 +1,3 @@
+Sorta because as of right now it is a two player game where one person changes the number and the guesser must do his job.
+
+Making the number to guess a random number.
