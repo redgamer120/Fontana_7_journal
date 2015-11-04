@@ -1,0 +1,4 @@
+A method is an other word for a shortcut program.
+I used methods to continue playing a video game from a loop.
+A while loop is a loop that continues to run while something is true( 1<2 )
+I used a counter to count the number of tries you have, a while loop to continue to play the game, and booleans to ask for your name.
