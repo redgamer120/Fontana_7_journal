@@ -1,0 +1,4 @@
+A string is bunch of letters or words.
+They are good for input and output for the computer.
+String methods help you work with strings better.
+You can identify a string method by finding the method then finding if it is a string.
