@@ -1,0 +1,3 @@
+A class constructer is like a blueprint for objects and such.
+For a class contructor you need the space for the object for it to run properly.
+Orbs should have methods for the drawing size and some code for the button to shot the orb.
