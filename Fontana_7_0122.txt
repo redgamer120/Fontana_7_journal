@@ -1,0 +1,2 @@
+To use it for an even bigger project.
+To learn how the canvas works and such.
