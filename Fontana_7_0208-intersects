@@ -1,0 +1,1 @@
+In the update portion of the code the game should check and see if the hitboxes of the weapon or player is touching the hitbox of the enemies.
