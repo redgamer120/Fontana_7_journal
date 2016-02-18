@@ -1,0 +1,11 @@
+1. An array is used as container object that can holds a fixed number of values of a single type.
+2. The code for an int array is int[] anArray;
+3. The code for a string array is String[] anArrayOfStrings;
+4. The code for a boolean array is boolean[] anArrayOfBooleans;
+5. The code for a double array is double[] anArrayOfDoubles;
+6. To change the first value of an int array to 42 is the getting that varible's first value and make the code to say #value_name == 42
+7. To change the value of a string array to "Bob" it would be the name of the string == ("Bob")
+8. That code results in the creation of a new String called dessert with the value of 3
+9. That code results in a new String called postres with the differnet values of "rice puding", "pad dulce", and "bunuelos"
+10. They are different because one of them is a string and the other is a interger array.
+11. The name of the array == "apple pie"

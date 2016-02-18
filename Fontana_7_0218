@@ -1,0 +1,49 @@
+That code is the code for the running sprite.
+It would be very unproductive to remember Slick syntax - we are tying to remember/learn what this code does.
+An array is a storage of one type of datatype.
+To make an int array is int[] anArray;
+An array list is a way to let array's grow as they need to.
+To make an array list this code is used List<MyClass> list = new ArrayList<MyClass>();
+With the '#nameOfArraylist.remove(1);' to remove element from the given index. Or with '#nameOfArraylist.add('#nameOfNewThingInArray'); you add something into that array. Or with '#nameOfArraylist.remove('#nameOfNewThingInArray');' you can remove a specific thing of that array.
+The diference between them is that arraylist is for an array to grow and shrink.
+
+
+Ex
+button1.addActionListener(new ActionListener() {
+
+  public void actionPerformed(ActionEvent arg0) {
+
+    label1.setVisible(true);
+
+    Runnable runnable = new Runnable() {
+           int counter =1 ;
+
+           public void run() {
+               while(true) {
+
+                    while (counter<5)  {
+                        SwingUtilties.invokeLater(new Runnable() {
+                               public void run() {
+                                   label1.setText("counter  is " + counter);
+                               }
+                        }); 
+
+                        counter = counter + 1 ;
+                        try {
+                           Thread.sleep(1000);
+                        }catch(InterruptedException ex) {
+                            System.err.println(ex.toString());
+
+                        }    
+                    } 
+                counter = 1;
+                tk.beep();
+
+                }
+
+           }
+    };
+
+     new Thread(runnable).start();
+
+});
