@@ -1,0 +1,54 @@
+1. public Rat(#dataType object) {
+	#code
+}
+
+2. public class Rats {
+    public int x = 0;
+    public int y = 0;
+    //constructor
+    public Rats(int a, int b) {
+        x = a;
+        y = b;
+    }
+}
+3. The code for declaration should be more towards the top of the code while the initialization are placed towards the end of the code so you can see them after all the computing.
+4. public class Rats {
+    public int x = 0;
+    public int y = 0;
+    //constructor
+    public Rats(int a, int b) {
+        x = a;
+        y = b;
+    }
+public class Rats {
+    public int x = 10;
+    public int y = 10;
+    //constructor
+    public Rats(int a, int b) {
+        x = a;
+        y = b;
+    }
+public class Rats {
+    public int x = 20;
+    public int y = 20;
+    //constructor
+    public Rats(int a, int b) {
+        x = a;
+        y = b;
+    }
+public class Rats {
+    public int x = 30;
+    public int y = 30;
+    //constructor
+    public Rats(int a, int b) {
+        x = a;
+        y = b;
+    }
+public class Rats {
+    public int x = 40;
+    public int y = 40;
+    //constructor
+    public Rats(int a, int b) {
+        x = a;
+        y = b;
+    }
