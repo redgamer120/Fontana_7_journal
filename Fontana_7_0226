@@ -1,0 +1,4 @@
+The code below creates a pattern of things from an array.
+To make an X out of this code you would take the code that makes the vertical thing/object and the horisontal thing/object and then you get an x like figure.
+You could make it see if the selected is 5 in a row and give the player a screen that says that he won.
+
