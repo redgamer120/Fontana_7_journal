@@ -1,0 +1,44 @@
+1. You make a class by:
+public void Donuts {
+
+}
+2. No, it is not a class construction becaluse a class construction is a method inside a class that allows tou to set the variables of that class and it is how you create instances of that class.
+This uses a class constructor to create an istance.
+3. How do we make a class with calues and a class constructio?
+public class Donut {
+	int x, y;
+	boolean isGlazed;
+	boolean hasJelly;
+	float temperature;
+	public Donut(boolean a, boolean b, float c) {
+		this.isGlazed = a;
+		this.hasJelly = b;
+		this.temperature = c;
+	}
+}
+4.	//a getter gets, i.e. , a getter returns a variable value
+	// usally, a getter is a public method to get a private value
+	public boolean getHasJelly() {
+		return this.hasJelly;
+	}
+5.	public void setTemperature(float c) {
+		this.temperature = c
+	}
+}
+6. An array of Breakfast
+int[] coolnumberz; //this is an array of integers
+String[] coolwords; //this is an array of string s
+boolean [] [] blocked; // this is a 2D array of booleans
+Breakfast [] jarzombeckFamilyBreakfast;
+Breakfast Joseph = new Breakfast(4, 8, 2, true);
+Breakfast Sara = new Breakfast(2, 0, 0, true);
+Breakfast Papa = new Breakfast(4, 8, 9, false);
+Breakfast Mama = new Breakfast(3, 0, 0, false);
+JarzombeckFamilyBreakfast = {Joseph, Sarah, Papa, Mama};
+
+7. Using getters and setters:
+Donut ChocolateFilled = new Donut(true, false, 100);
+ChocolateFilled.setTemp(72);
+
+8. This is using a getter:
+ChocolatFilled.getIsGlazed(42);
