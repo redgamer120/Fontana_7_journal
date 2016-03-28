@@ -1,0 +1,7 @@
+We have made a timer into the screen/LCD and a bliking light that speeds up over time.
+The code is some what english launage and computer lanuage at the same time such as delay will delay certain things. Same applys for lcd.print aka screen print, or millis meaning millisecond.
+We combined the code for the screens and the makeshift code of a bliking light to make a faster blinking bomb.
+A circut requires a power source, resistor, and connecting wires.
+The computer will transfer the codeing in to computer commands and then send them to the mini computer/Arduino.
+We have done projects varing from a solid light to a color changing light and to display some words to do really cool tricks with words on a screen. I learned to make a light blik while powering a screen to go along with the same program. I also learned how to setup a circut to share power and ports on a bread board.
+For our project we are going to make a pinao program.
