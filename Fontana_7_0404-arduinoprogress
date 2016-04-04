@@ -1,0 +1,5 @@
+We have made a buzzer play music and a screen display what ever me wanted it to.
+We still need to add the main code to our project so we can make a guessing and timing game.
+A working buzzer and a screen but I can't promiss what I don't have.
+Add the main code a mabey take out the music.
+We will have the main function for the main game, a function for music, and a function for our screen.
