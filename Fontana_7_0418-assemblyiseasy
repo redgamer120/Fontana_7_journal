@@ -1,0 +1,24 @@
+1.elf stands for file format while 64 = 64 bit.
+2.ld compiles the code.
+3.The code is already in executable.
+4.
+global   _start
+
+        section .text
+_start:
+        ; write(1, message, 23)
+        mov     rax, 1          ; system call 1 is write
+        mov     rdi, 1          ; file handle 1 is stdout
+        mov     rsi, message    ;address of string to output
+        mov     rdx, 23         ;number of bytes
+        syscall                 ;invoke operating system to do the write
+
+        ; exit(0)
+        mov     eax, 60
+        xor     rdi, rdi
+        syscall
+message:
+        db      "My name is Reid Fontana.", 10
+5. Had to change the byte size and such.
+6. Assembly is not quick or easy because you are speaking the closest thing to computer language.
+7. Low level means easier for the computer to read but harder for us.
