@@ -1,0 +1,33 @@
+1.
+class Cubed {
+	public static void main (String args[]) {
+		int a = 5;
+		
+		System.out.println("The number is " + a + ".");
+		b = a * a * a;
+		System.out.println("Then new number is " + b + ".");
+	}
+}
+
+2.
+int a_number = 5;
+int new_number;
+
+void loop {
+	new_number = a_number * a_number * a_number
+}
+
+3.
+public class Halo{
+
+   public Halo(String name){
+      System.out.println("Name of game is :" + name ); 
+   }
+   
+   public static void main(String []args){
+      Halo myplayer = new Halo( "117" );
+   }
+}
+
+4. 
+I would make a Stattrack fedora.LOL.
