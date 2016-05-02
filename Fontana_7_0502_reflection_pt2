@@ -1,0 +1,13 @@
+1 An array is a storage of the same data type that can be called apon.
+2 To make a simple array you have to give the array a data type, a name, and an object to store.
+3 int [] [] myArray = 3, 7, 9 11;
+4 int min[1][1][1] = {{{100}}};
+5 int [][] myArray[11];
+6 while true {
+
+  }
+7 To call different classes from the main file.
+8 In the main you write the name of you game's java class.
+9 So that if someone used uppercase the scanner would still detect the letters.
+10 One method for your movement while another for the enemy and another to see if they ever touch. This makes things much easier to sort and look through.
+11 Methods will pass any value that you assign them.
