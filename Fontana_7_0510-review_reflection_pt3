@@ -1,0 +1,23 @@
+public class Hero {
+	int health = 50;
+	int score = 0;
+	int power = 5;
+	boolean weapon = true;
+	int dexterity = 10;
+	int perception = 5;
+	int level = 1;
+	int x = 1;
+	int y = 1;
+	int z = 1;
+	String name;
+}
+
+public Player(String name, int x, int y, int z)
+	name = playerName;
+	x = PlayerX;
+	y = PlayerY;
+	z = PlayerZ;
+}
+
+Player(playerName = Reid);
+We don't initialize the hero in it's class because that's were we only define things.
