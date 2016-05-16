@@ -1,0 +1,11 @@
+Java casting is for changeing one data type ot another.
+	int fish = 2;
+	double trouble;
+	trouble = fish;//fine because upcasting
+	System.out.println(trouble);
+	double bob = 3.14567;
+	int i;
+	i = (int)bob;//must specifically cast
+	char o = 'c';
+	String sally;
+	sally = "" + c; 
