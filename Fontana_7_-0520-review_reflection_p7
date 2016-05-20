@@ -1,0 +1,25 @@
+static class Orge{
+	int orgex = 10;
+        int orgey = 10;
+        int ohealth = 1;
+        enemy(int a, int b){
+            this.orgey = a;
+            this.orgex = b;
+        }   
+}
+Orge(5,5);
+public static void movement () {
+	if (orgex<playerx){
+	orgex ++;
+	}
+	if (orgex>playerx){
+        orgex --;
+        }
+	if (orgey<playery){
+        orgey ++;
+        }
+	if (orgey>playery){
+        orgey --;
+        }
+}
+Orge[] orgeArray = new Orge[3];
